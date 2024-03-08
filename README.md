@@ -5,7 +5,7 @@
 ### Thanks to cfemen and gir489 for all information and CE Tables.
 
 ## Feature List
-<details>
+<-details->
   <summary>Click to show</summary>
   
   | Cheat | Description |
